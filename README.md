@@ -32,8 +32,9 @@ https://www.notion.so/cb2e54049e1240c59d18928fdd83c5d0?v=c40b3db97f7a4042b2db491
 ## ⚙ 프로젝트 아키텍처
 ![아키택처](https://github.com/Team-FAB/FAB-FE/assets/122066788/fb1ff4ca-f768-4ea0-984b-f0114893f785)
 
+<br>
 
-## 🛠 기술스택
+## 🛠 기술 스택
 **Frontend**
 - TypeScript
 - React
@@ -54,6 +55,8 @@ https://www.notion.so/cb2e54049e1240c59d18928fdd83c5d0?v=c40b3db97f7a4042b2db491
 - Slack
 - Discord
 - Gather town
+
+<br>
 
 ## 🔗 담당 기능
 <h3>1) 룸메이트 1:1 매칭 및 신청현황 ⬇️</h3>
